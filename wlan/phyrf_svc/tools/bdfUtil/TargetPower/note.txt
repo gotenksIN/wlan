@@ -1,0 +1,10 @@
+Input command:
+FR68479_ctl_bdf2excel bdffile (bdf file base)
+For example: FR68479_ctl_bdf2excel.exe bdwlan01_b06.txt
+
+FR68479_trgt_bdf2excel.exe  bdffile (bdf file base)
+For example: FR68479_trgt_bdf2excel.exe bdwlan01_b06.txt
+
+
+FR68479_trgt_excel2bdf.exe   bdffile (bdf file base)  excelfile (excel after modified) like:
+For example: FR68479_trgt_excel2bdf.exe   bdwlan.txt  output_target.xlsx

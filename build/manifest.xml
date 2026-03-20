@@ -1,0 +1,10 @@
+<config>
+  <image_tree>
+    <name>WLAN.HSP.2.0.c10</name>
+    <build_id>WLAN.HSP.2.0.c10-00465-QCAHSPSWPL_V1_V2_SILICONZ-1</build_id>
+    <branch_point_revision>None</branch_point_revision>
+    <revision>00465</revision>
+    <spin>1</spin>
+    <client>QCAHSPSWPL_V1_V2_SILICONZ</client>
+  </image_tree>
+</config>
