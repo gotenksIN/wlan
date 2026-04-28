@@ -1,4 +1,4 @@
-uint16	REGULATORY_DB_SECTION.checksum	 24340 
+uint16	REGULATORY_DB_SECTION.checksum	 19259 
 uint16	REGULATORY_DB_SECTION.regDbAllCountries[0].country_code	 4 
 uint16	REGULATORY_DB_SECTION.regDbAllCountries[0].reg_dmn_pair_id	 55 
 uint8	REGULATORY_DB_SECTION.regDbAllCountries[0].super_dmn_6g_id	 0 
@@ -13098,10 +13098,10 @@ uint8	REGULATORY_DB_SECTION.regDbRegDomains5g[47].ant_gain	 0
 uint8	REGULATORY_DB_SECTION.regDbRegDomains5g[47].num_reg_rules	 5 
 uint8	REGULATORY_DB_SECTION.regDbRegDomains5g[47].pad	 0 
 uint8	REGULATORY_DB_SECTION.regDbRegDomains5g[47].reg_rule_id[0]	 0 
-uint8	REGULATORY_DB_SECTION.regDbRegDomains5g[47].reg_rule_id[1]	 0 
-uint8	REGULATORY_DB_SECTION.regDbRegDomains5g[47].reg_rule_id[2]	 0 
-uint8	REGULATORY_DB_SECTION.regDbRegDomains5g[47].reg_rule_id[3]	 0 
-uint8	REGULATORY_DB_SECTION.regDbRegDomains5g[47].reg_rule_id[4]	 0 
+uint8	REGULATORY_DB_SECTION.regDbRegDomains5g[47].reg_rule_id[1]	 4 
+uint8	REGULATORY_DB_SECTION.regDbRegDomains5g[47].reg_rule_id[2]	 2 
+uint8	REGULATORY_DB_SECTION.regDbRegDomains5g[47].reg_rule_id[3]	 16 
+uint8	REGULATORY_DB_SECTION.regDbRegDomains5g[47].reg_rule_id[4]	 45 
 uint8	REGULATORY_DB_SECTION.regDbRegDomains5g[47].reg_rule_id[5]	 0 
 uint8	REGULATORY_DB_SECTION.regDbRegDomains5g[47].reg_rule_id[6]	 0 
 uint8	REGULATORY_DB_SECTION.regDbRegDomains5g[47].reg_rule_id[7]	 0 
